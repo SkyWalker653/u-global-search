@@ -1,0 +1,8 @@
+{
+  "short_name": "u-global-search",
+  "name": "u-global-search",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
